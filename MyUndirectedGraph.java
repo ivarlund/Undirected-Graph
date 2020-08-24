@@ -1,5 +1,3 @@
-// Ivar Lund (ivlu1468). Jag har samarbetat med Jesper Byström (jeby1474) och Elin Lundstedt (ellu3451)
-
 import java.util.*;
 
 public class MyUndirectedGraph<T> implements UndirectedGraph<T> {
